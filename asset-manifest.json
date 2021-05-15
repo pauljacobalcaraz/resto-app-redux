@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resto-app-redux/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/resto-app-redux/static/js/main.1c3256b5.chunk.js",
+    "main.js.map": "/resto-app-redux/static/js/main.1c3256b5.chunk.js.map",
+    "runtime-main.js": "/resto-app-redux/static/js/runtime-main.89746478.js",
+    "runtime-main.js.map": "/resto-app-redux/static/js/runtime-main.89746478.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/resto-app-redux/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.433ac610.chunk.js": "/resto-app-redux/static/js/2.433ac610.chunk.js",
+    "static/js/2.433ac610.chunk.js.map": "/resto-app-redux/static/js/2.433ac610.chunk.js.map",
+    "static/js/3.c7200cd9.chunk.js": "/resto-app-redux/static/js/3.c7200cd9.chunk.js",
+    "static/js/3.c7200cd9.chunk.js.map": "/resto-app-redux/static/js/3.c7200cd9.chunk.js.map",
+    "index.html": "/resto-app-redux/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/resto-app-redux/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/resto-app-redux/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.433ac610.chunk.js.LICENSE.txt": "/resto-app-redux/static/js/2.433ac610.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/resto-app-redux/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89746478.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.433ac610.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1c3256b5.chunk.js"
+  ]
+}
